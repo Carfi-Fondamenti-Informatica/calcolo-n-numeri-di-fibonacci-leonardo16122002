@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    __int64 n,i=0,j=1,k,l;
+    int n,i=0,j=1,k,l;
     cin>>n;
     if(n>1){
         cout<<1<<endl;
